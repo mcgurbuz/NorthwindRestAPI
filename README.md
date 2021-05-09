@@ -1,2 +1,4 @@
 # NorthwindRestAPI
 Engin Demiroğun düzenlemiş olduğu (Java &amp; React) Yazılım Geliştirici Yetiştirme Kampı 6 Günü içermektedir.
+
+Herkese selamlar PostreSQL Northwind veritabanının products tablosundaki ürünleri Spring bootla erişmek amacıyla ilgili proje yapılmıştır. Spring initializr üzerinden Dependencies : Spring Boot Dev Tools, Lombok , Spring web , Spring Data JPA, Postre SQL seçimleri yapılmıştır.Entities , Dataaccess, Business,Api,Core katmanları oluşturulmuştur. Ayrıca çeşitli Annotationlar kullanılarak bunlar: @Entity ,@Table,@Autowired , @Column,@Id,@GeneratedValue, @Service,@RestController,@RequestMapping,@GetMapping kullanılmıştır. Bunların ne işe yaradıklarını proje içerisinde yorum satırlarından erişebilirsiniz. Ayrıca programı çalıştırınca hata alırsanız. Task Manager servis altından TomCat çalışmasını durdurmayı ve Product altında Default içi boş Constructor eklemeyi unutmayınız. Hepinize İyi çalışmalar Kolay gelsin :)
